@@ -1,0 +1,40 @@
+header{
+	background-color: #413F42;
+	color:#CAD3DF;
+}
+h1{
+	padding-bottom: 10px;
+}
+section{
+	background-color: #51A6C2;
+}
+body{
+	background-color: #CAD3DF;
+}
+#inputDiv{
+	background-color: #CAD3DF;
+	padding:20px;
+}
+
+#submit{
+	margin-top: 10px;
+	border-radius: 0;
+
+}
+#input{
+	border-radius: 0;
+}
+.custom-buttons{
+	border-radius: 0;
+	margin: 10px;
+}
+#buttons{
+	background-color: #CAD3DF;
+	min-height: 130px;
+
+}
+#gifsHere{
+	margin-left:-45px;
+	padding: 20px;
+	
+}
